@@ -4,3 +4,5 @@ It should have an input field. When the user enters text in the input field, add
 
 In addition to pushing the answer to your Github account, please also setup a http://jsfiddle.net/ with the solution (so it runs correctly).
 
+http://jsfiddle.net/9G2Mk/
+
